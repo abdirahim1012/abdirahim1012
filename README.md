@@ -1,6 +1,6 @@
 -Hi, I’m Abdirahim Abdi
 - I’m interested in sports, cars, and computers.
-- I’m currently learning FrontEnd web development at Promineo tech.
+- I’m currently learning FrontEnd web development at Promineo tech. Currently studing JavaScript and will move into HTML afterwards. 
 - I’m looking to collaborate on futrue web design projects after completeing my course.
 - i can be reached via email or linkend at Abdirahim Abdi or Abdirahim1012@gmail.com.
 
